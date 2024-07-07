@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Body1",
+    "position": [100, 200, -150],
+    "velocity": [10, -20, 5],
+    "mass": 5.0e16
+  },
+  {
+    "name": "Body2",
+    "position": [-120, 150, 200],
+    "velocity": [20, 10, -10],
+    "mass": 4.5e18
+  },
+  {
+    "name": "Body3",
+    "position": [200, -500, 10000],
+    "velocity": [-15, 20, -5],
+    "mass": 6.0e18
+  },
+  {
+    "name": "Body4",
+    "position": [500, -400, 100],
+    "velocity": [-15, 20, -5],
+    "mass": 6.0e16
+  },
+  {
+    "name": "Body4",
+    "position": [600, -400, 400],
+    "velocity": [-15, 20, -5],
+    "mass": 6.0e16
+  },
+  {
+    "name": "Body4",
+    "position": [500, -400, 300],
+    "velocity": [-15, 20, -5],
+    "mass": 6.0e13
+  },
+  {
+    "name": "Body4",
+    "position": [500, -400, 800],
+    "velocity": [-15, 20, -5],
+    "mass": 6.0e14
+  }
+]
